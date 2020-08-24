@@ -29,3 +29,13 @@ We arrived Rank@1= 70.1%, Rank@5= 95.2%, Rank@10= 99.1%, Rank@15= 99.1% and Rank
 
 ![evalu](https://user-images.githubusercontent.com/27925997/90381698-f8aa9f80-e092-11ea-9208-fbb3a56aa525.png)
 
+### Citation
+---
+Please cite this paper in your publications if it helps your research:
+```
+@article{amouei2020transferlearning,
+  title={An Improved Person Re-identification Method by light-weight convolutional neural network},
+  author={Sajad Amouei Sheshkal and  Kazim Fouladi-Ghaleh and Hossein Aghababa},
+  year={2020}
+}
+```
